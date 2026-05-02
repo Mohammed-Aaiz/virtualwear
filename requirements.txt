@@ -1,0 +1,11 @@
+streamlit>=1.32.0
+opencv-python>=4.9.0
+mediapipe>=0.10.0
+rembg>=2.0.50
+Pillow>=10.0.0
+numpy>=1.26.0
+pandas>=2.0.0
+scikit-learn>=1.4.0
+torch>=2.0.0
+transformers>=4.38.0
+onnxruntime>=1.17.0

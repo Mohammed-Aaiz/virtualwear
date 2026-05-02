@@ -1,0 +1,7 @@
+id,product_name,category,image_url,price,primary_religion,secondary_religion,festival
+1,Black Abaya,Ethnic Wear,images/abaya.jpg,1499,Muslim,,Eid
+2,Red Saree,Ethnic Wear,images/saree.jpg,1999,Hindu,,Diwali
+3,White Kurta,Ethnic Wear,images/kurta.jpg,999,Muslim,Hindu,Eid|Diwali
+4,Church Gown,Western Wear,images/gown.jpg,2499,Christian,,Christmas
+5,Monk Robe,Religious Wear,images/robe.jpg,1299,Buddhist,,Meditation
+6,Turban,Sikh Wear,images/turban.jpg,499,Sikh,,Gurpurab
